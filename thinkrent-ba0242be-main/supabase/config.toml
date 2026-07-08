@@ -1,0 +1,7 @@
+project_id = "xkkgymedxgfvffaamujz"
+
+[api]
+enabled = true
+
+[functions.create-checkout]
+verify_jwt = false
